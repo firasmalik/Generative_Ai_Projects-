@@ -3,14 +3,14 @@ langchain
 langchain-community
 langchain-core
 python-dotenv
-
+fastapi
 langchain
 python-dotenv
 ipykernel
 langchain-community
 pypdf
 bs4
-
+langserve
 arxiv
 pymupdf
 wikipedia
@@ -39,3 +39,5 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+
+sse_starlette

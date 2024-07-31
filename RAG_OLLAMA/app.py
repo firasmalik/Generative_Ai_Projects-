@@ -28,7 +28,7 @@ def generate_response(question,llm,temperature,max_tokens):
     answer=chain.invoke({'question':question})
     return answer
 
-## #Title of the app
+## #Title of the appls
 st.title("Enhanced Q&A Chatbot With OpenAI")
 
 
